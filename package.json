@@ -1,0 +1,22 @@
+{
+  "publisher": "WebExample",
+  "name": "corn-theme",
+  "displayName": "Corn Dark",
+  "description": "empty",
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VSCode Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VSCode Theme-color-theme.json"
+      }
+    ]
+  }
+}
